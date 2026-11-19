@@ -1,0 +1,18 @@
+# vscode
+.vscode
+
+# Intellij
+*.iml
+.idea
+
+# npm
+node_modules
+
+# sourcemaps
+*.map
+
+# obsidian
+data.json
+
+# macOS
+.DS_Store

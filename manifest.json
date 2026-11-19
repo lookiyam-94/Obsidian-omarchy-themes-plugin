@@ -1,0 +1,10 @@
+{
+	"id": "omarchy-themes",
+	"name": "Omarchy Themes",
+	"version": "1.0.0",
+	"minAppVersion": "1.4.0",
+	"description": "Apply an official Omarchy theme inside Obsidian.",
+	"author": "lookiyam-94",
+	"authorUrl": "https://github.com/lookiyam-94",
+	"isDesktopOnly": false
+}
